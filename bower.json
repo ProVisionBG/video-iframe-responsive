@@ -8,8 +8,8 @@
   ],
   "description": "",
   "main": [
-    "./dist/video-iframe-responsive.js",
-    "./dist/video-iframe-responsive.css"
+    "./dist/video-iframe-responsive.min.js",
+    "./dist/video-iframe-responsive.min.css"
   ],
   "moduleType": [],
   "keywords": [
