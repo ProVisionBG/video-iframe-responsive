@@ -1,6 +1,6 @@
 {
   "name": "video-iframe-responsive",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/ProVisionBG/video-iframe-responsive",
   "authors": [
     "Venelin Iliev <venelin@provision.bg>",
@@ -8,8 +8,8 @@
   ],
   "description": "",
   "main": [
-    "./dist/vir.js",
-    "./dist/vir.css"
+    "./dist/video-iframe-responsive.js",
+    "./dist/video-iframe-responsive.css"
   ],
   "moduleType": [],
   "keywords": [
