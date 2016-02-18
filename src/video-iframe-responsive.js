@@ -24,7 +24,7 @@
             var div = document.createElement("div");
             div.className = "vir-videowrapper";
             parent.appendChild(div);
-            div.appendChild(collection[i]);
+            div.appendChild(collection[ii]);
         }
     }
 
