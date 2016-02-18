@@ -1,0 +1,29 @@
+{
+  "name": "video-iframe-responsive",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ProVisionBG/video-iframe-responsive",
+  "authors": [
+    "Venelin Iliev <venelin@provision.bg>",
+    "Vasil Todorov <vasil.todorov@provision.bg>"
+  ],
+  "description": "",
+  "main": [
+    "./dist/vir.js",
+    "./dist/vir.css"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "youtube",
+    "vimeo",
+    "iframe"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
