@@ -33,6 +33,6 @@ module.exports = function (grunt) {
 
 
     // Default task(s).
-    grunt.registerTask('default', ['cssmin']);
+    grunt.registerTask('default', ['uglify','cssmin']);
 
 };

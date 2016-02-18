@@ -19,13 +19,12 @@
     var collection = document.querySelectorAll(supportedVideosSelector);
 
     if (collection.length > 0) {
-        for (var ii = 0; ii < collection.length; ii++) {
-            var parent = collection[ii].parentNode;
+        for (var j = 0; j < collection.length; j++) {
+            var parent = collection[j].parentNode;
             var div = document.createElement("div");
             div.className = "vir-videowrapper";
             parent.appendChild(div);
-            div.appendChild(collection[ii]);
+            div.appendChild(collection[j]);
         }
     }
-
 })();
